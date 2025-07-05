@@ -6,14 +6,20 @@ A hotel chain managing multiple bars was experiencing frequent stockouts and ove
 Forecast daily item-level consumption (per bar, per brand)  
 Recommend weekly par levels with a safety buffer  
 Simulate stock performance using historical data  
+
+    
 📊 Key Features  
 Rolling average + std dev forecasting  
 Rule-based par level recommendations  
 Real-world simulation to test stockouts/overstock  
 Clear visualizations and insights  
+
+    
 🛠️ Tech Stack  
 Python (Pandas, Matplotlib, Seaborn)  
 Jupyter Notebook  
+
+    
 📦 How to Run  
 Clone the repo  
 Open the .ipynb in Jupyter  
